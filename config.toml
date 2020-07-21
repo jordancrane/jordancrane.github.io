@@ -41,7 +41,7 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/jordancrane/"
-    rel = "me"
+    rel = "me authn"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
@@ -59,7 +59,7 @@ pygmentscodefencesguesssyntax = true
     icon = "fa fa-envelope fa-2x"
     weight = 3
     url = "mailto:jordan@jordancrane.me"
-    rel = "me"
+    rel = "me authn"
 
 # Menu links
 [[menu.main]]
